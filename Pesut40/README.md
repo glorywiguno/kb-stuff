@@ -11,3 +11,11 @@ Curve design on the side is inspired/derived from [Linworks Dolphin](https://www
 
 Note: for the 20mm, might need a little bit of sanding down for the last part of feet if there's a gap.
 
+## Gallery
+
+Top View
+<img src="https://imgur.com/e25nSNk"/>
+Side Profile
+<img src="https://imgur.com/CIBfEfR"/>
+Bottom view
+<img src="https://imgur.com/VhbC9zq"/>

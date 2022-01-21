@@ -37,3 +37,10 @@ in place of `00a-bottom-stand-3mm` layer so that the screws can hold the layer.
   it in the wrong orientation
 
 
+## Gallery
+Assembled parts
+<img src="https://imgur.com/yVWNvsU"/>
+
+Side view, for artisan higher than 18m
+<img src="https://imgur.com/7LWxXaN"/>
+

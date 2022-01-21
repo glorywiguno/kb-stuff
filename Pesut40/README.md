@@ -14,8 +14,8 @@ Note: for the 20mm, might need a little bit of sanding down for the last part of
 ## Gallery
 
 Top View
-![Top view](https://imgur.com/e25nSNk)
+![Top view](https://imgur.com/e25nSNk.jpg)
 Side Profile
-![Side profile](https://imgur.com/CIBfEfR)
+![Side profile](https://imgur.com/CIBfEfR.jpg)
 Bottom view
-![Bottom view](https://imgur.com/VhbC9zq)
+![Bottom view](https://imgur.com/VhbC9zq.jpg)

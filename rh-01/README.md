@@ -39,8 +39,8 @@ in place of `00a-bottom-stand-3mm` layer so that the screws can hold the layer.
 
 ## Gallery
 Assembled parts
-![Assembled parts](https://imgur.com/yVWNvsU)
+![Assembled parts](https://imgur.com/yVWNvsU.jpg)
 
 Side view, for artisan higher than 18m
-![Assembled parts](https://imgur.com/7LWxXaN)
+![Assembled parts](https://imgur.com/7LWxXaN.jpg)
 
